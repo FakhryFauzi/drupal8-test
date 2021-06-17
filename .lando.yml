@@ -1,0 +1,6 @@
+name: local-test2
+recipe: pantheon
+config:
+  framework: drupal8
+  site: local-test2
+  id: e91316c8-9bda-4d1d-98a1-695e4ab5e0f5

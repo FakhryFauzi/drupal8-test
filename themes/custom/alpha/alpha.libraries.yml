@@ -1,0 +1,11 @@
+# define our javascripts and css files here
+global-css:
+  css:
+    theme:
+      css/style.css: {}
+
+global-js:
+  js:
+    js/main.js: {}
+  dependencies:
+    - core/jquery
